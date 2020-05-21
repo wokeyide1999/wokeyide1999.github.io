@@ -4,6 +4,6 @@
 
 ## 简介
 
-项目参考了[https://github.com/GitHub-Laziji/vblog][3]
+项目参考了[https://github.com/GitHub-Laziji/vblog]
 
 
